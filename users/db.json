@@ -1,0 +1,11 @@
+{
+  "users": [
+    {"id": "42", "firstName": "Katie", "age": 29, "companyId": "01"},
+    {"id": "23", "firstName": "Evgeniia", "age": 30, "companyId": "10"},
+    {"id": "666", "firstName": "Zefirka", "age": 3, "companyId": "10"}
+  ],
+  "companies": [
+    {"id": "01", "name": "Peach", "description": "cool peaches for cool bitches"},
+    {"id": "10", "name": "No company", "description": "there is no company"}
+  ]
+}
